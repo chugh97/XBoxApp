@@ -54,6 +54,7 @@ namespace XboxMusicQueryPCL
 
         public async Task<string> FindAlbums (string Artist)
         {
+           serviceClient = new MusicClient(ClientID, ClientSecret);
            ContentResponse resp = await serviceClient.Find(Artist);
             
             return resp.Albums.ToString();
