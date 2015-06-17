@@ -1,0 +1,12 @@
+C:\Users\shaleen.chugh\Downloads\xamarintest-master\xamarintest-master\XBoxMusicQueryPCL\bin\Debug\XBoxMusicQueryPCL.dll
+C:\Users\shaleen.chugh\Downloads\xamarintest-master\xamarintest-master\XBoxMusicQueryPCL\bin\Debug\XBoxMusicQueryPCL.pdb
+C:\Users\shaleen.chugh\Downloads\xamarintest-master\xamarintest-master\XBoxMusicQueryPCL\bin\Debug\PortableRest.dll
+C:\Users\shaleen.chugh\Downloads\xamarintest-master\xamarintest-master\XBoxMusicQueryPCL\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\shaleen.chugh\Downloads\xamarintest-master\xamarintest-master\XBoxMusicQueryPCL\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\shaleen.chugh\Downloads\xamarintest-master\xamarintest-master\XBoxMusicQueryPCL\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\shaleen.chugh\Downloads\xamarintest-master\xamarintest-master\XBoxMusicQueryPCL\bin\Debug\Xbox.Music.dll
+C:\Users\shaleen.chugh\Downloads\xamarintest-master\xamarintest-master\XBoxMusicQueryPCL\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\shaleen.chugh\Downloads\xamarintest-master\xamarintest-master\XBoxMusicQueryPCL\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\shaleen.chugh\Downloads\xamarintest-master\xamarintest-master\XBoxMusicQueryPCL\obj\Debug\XBoxMusicQueryPCL.dll
+C:\Users\shaleen.chugh\Downloads\xamarintest-master\xamarintest-master\XBoxMusicQueryPCL\obj\Debug\XBoxMusicQueryPCL.pdb
+C:\Users\shaleen.chugh\Downloads\xamarintest-master\xamarintest-master\XBoxMusicQueryPCL\bin\Debug\Newtonsoft.Json.dll

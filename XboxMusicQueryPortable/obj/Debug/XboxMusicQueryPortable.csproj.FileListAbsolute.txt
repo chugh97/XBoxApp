@@ -1,0 +1,2 @@
+C:\Users\shaleen.chugh\Downloads\xamarintest-master\xamarintest-master\XboxMusicQueryPortable\obj\Debug\XboxMusicQueryPortable.csproj.App.config
+C:\Users\shaleen.chugh\Downloads\xamarintest-master\xamarintest-master\XboxMusicQueryPortable\obj\Debug\XboxMusicQueryPortable.csprojResolveAssemblyReference.cache

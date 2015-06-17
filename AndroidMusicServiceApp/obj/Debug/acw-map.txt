@@ -1,0 +1,4 @@
+AndroidMusicServiceApp.MainActivity, AndroidMusicServiceApp;md59330c6b101a527e07fe993020574dc06.MainActivity
+AndroidMusicServiceApp.MainActivity, AndroidMusicServiceApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md59330c6b101a527e07fe993020574dc06.MainActivity
+AndroidMusicServiceApp.MainActivity;md59330c6b101a527e07fe993020574dc06.MainActivity
+androidmusicserviceapp.MainActivity;md59330c6b101a527e07fe993020574dc06.MainActivity
